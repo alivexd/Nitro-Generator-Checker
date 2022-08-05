@@ -13,4 +13,4 @@ It will basically generate random codes and test them through Discord's API, and
 - Select the number of links you want to generate
 
 ## Support 🖐
-In case of bug just join **discord.gg/dignity**
+In case of bug just add me **Alive#1100**
