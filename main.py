@@ -14,7 +14,7 @@ print("""
 time.sleep(2)
 print("Generating Nitro Links")
 time.sleep(0.3)
-print("Join discord.gg/dignity For More\n")
+print("Send Friend Request to Alive#1100 in case of bugs\n")
 time.sleep(0.2)
 
 num = int(input('Input How Many Codes to Generate and Check: '))
