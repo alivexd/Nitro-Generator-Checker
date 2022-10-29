@@ -17,7 +17,8 @@ The chances of a working link are once in a million. This gen does not promise y
 People who try running this gen usually face problems like:
 - File opens and then closes
 - Dont know how to run py files
-If you face similar problems then simple run the code on replit (it is way easier on repl)
+
+## If you face similar problems then simple run the code on replit (it is way easier on repl)
 
 ## Support 🖐
 In case of bug just add me **Alive#1100**
