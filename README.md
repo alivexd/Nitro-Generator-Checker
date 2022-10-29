@@ -5,12 +5,19 @@
 It supports advanced generation producing more than 100,000 links per minute
 
 It will basically generate random codes and test them through Discord's API, and let you know where there's a hit.
+The chances of a working link are once in a million. This gen does not promise you any nitro ;) Give it a try though
 
 ## Installation 💾
 
 - Make sure Python is installed
 - To run type `python main.py`
 - Select the number of links you want to generate
+
+## Issues Faced By Users
+People who try running this gen usually face problems like:
+- File opens and then closes
+- Dont know how to run py files
+If you face similar problems then simple run the code on replit (it is way easier on repl)
 
 ## Support 🖐
 In case of bug just add me **Alive#1100**
