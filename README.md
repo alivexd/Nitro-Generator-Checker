@@ -10,7 +10,7 @@ The chances of a working link are once in a million. This gen does not promise y
 ## Installation 💾
 
 - Make sure Python is installed
-- To run type `python main.py`/`python bettermain.py` (for fast output)
+- To run type `python main.py`(old version)/`python bettermain.py` (new version, for fast output)
 - Select the number of links you want to generate
 
 ## Issues Faced By Users
