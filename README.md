@@ -9,7 +9,9 @@ The chances of a working link are once in a million. This gen does not promise y
 
 ## Installation 💾
 
-- Make sure Python is installed
+- Make sure Python is installed with modules
+- python pip install requests
+- python pip install aiohttp
 - To run type `python main.py`(old version)/`python bettermain.py` (new version, for fast output)
 - Select the number of links you want to generate
 
