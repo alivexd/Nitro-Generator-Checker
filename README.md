@@ -21,8 +21,8 @@ People who try running this gen usually face problems like:
 - Go watch a tutorial on youtube about how to run py files
 - If you still face similar problems then run the code on replit (it is way easier on repl)
 
-## Live Update - It Works In 2023
-- It is working efficiently in 2023, Feel free to dm me if you face problems not mentioned above
+## Live Update - It Works In 2024
+- It is working efficiently in 2024, Feel free to dm me if you face problems not mentioned above
 
 ## Support 🖐
 In case of bug just add me **Alive#1100**
