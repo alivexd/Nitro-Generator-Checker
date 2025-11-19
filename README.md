@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> For Educational Purposes Only
 # Discord Nitro Generator & Checker
 
 ## Presentation 📖
@@ -5,7 +7,6 @@
 It supports advanced generation producing more than 100,000 links per minute
 
 It will basically generate random codes and test them through Discord's API, and let you know where there's a hit.
-The chances of a working link are once in a million. This gen does not promise you any nitro ;) Give it a try though
 
 ## Installation 💾
 
@@ -20,9 +21,6 @@ People who try running this gen usually face problems like:
 - File opens and then closes (Dont know how to run py files)
 - Go watch a tutorial on youtube about how to run py files
 - If you still face similar problems then run the code on replit (it is way easier on repl)
-
-## Live Update - It Works In 2024
-- It is working efficiently in 2024, Feel free to dm me if you face problems not mentioned above
 
 ## Support 🖐
 In case of bug just add me **Alive#1100**
